@@ -1,2 +1,2 @@
-Exam project from my python one class. Focused on manipulating list and functions, 
-so I decideed to create a very rudimentarymovie watchlist program.
+This repository is a collection of various python scripts I've made.
+A mix of scripts I use for work and personal projects to further my knowledge in the language.
